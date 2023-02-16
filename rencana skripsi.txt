@@ -1,4 +1,6 @@
 rencana skripsi
 -kumpulkan referensi
+  * gan
+  * logistic regression neural network
 -code
 -bab 1
