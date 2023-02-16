@@ -3,6 +3,9 @@ rencana skripsi
   * gan
    - Real Score
    - Fake Score
+   - Discriminator
+   - DCGAN
+   - WGAN
   * logistic regression neural network
   * CNN
 -bab 1
