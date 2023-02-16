@@ -2,6 +2,8 @@ rencana skripsi
 -kumpulkan referensi
   * gan
    - Discriminator
+   - DCGAN
+   - WGAN
   * logistic regression neural network
   * CNN
 -code
