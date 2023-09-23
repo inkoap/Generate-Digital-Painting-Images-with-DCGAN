@@ -1,5 +1,5 @@
 # Generate Digital Painting Images with DCGAN
-Hi! This is the code I developed for my undergraduate thesis to obtain my S.Kom degree.
+Hi! This is the code I developed for my undergraduate thesis to obtain my Bachelor's Degree.
 
 The purpose of my thesis was to implement the Deep Convolutional Generative Adversarial Network (DCGAN) algorithm to generate automatic digital painting images. As we know, The demand for digital painting images continues to increase in this digital era. Due to the difficulties in acquiring knowledge and skills, as well as the time and cost involved in producing traditional art, artists face challenges. Therefore, technology is needed to automatically generate new and diverse art paintings.
 
